@@ -40,7 +40,7 @@ def display_description():
 	'''This funciton displays the game rules.'''
 
 	s = "-------------------------------------------------------------------------------\n"
-	s += "River Crossing Ridding Simulation\n"
+	s += "River Crossing Riddle Simulation\n"
 	s += "-------------------------------------------------------------------------------\n"
 	s += "The farmer wants to move the wolf, the goat and the cabbage across the river,\n"
 	s += "but he can only carry one thing at a time on his boat. if you leave the goat \n" 
