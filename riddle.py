@@ -14,7 +14,7 @@ def river_crossing_simulation():
 
 	# using a list so that we can pass in as one parameter
 	# to all needed functions
-	# [Human, Wolf, Goat, Caggage]
+	# [Human, Wolf, Goat, Cabbage]
 	characters = [False,False,False,False]
 
 	display_description()
